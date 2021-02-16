@@ -508,11 +508,6 @@
     color: #ffffff;
 }
 
-.orange-gradient {
-    background: linear-gradient(45deg, #352eb8, #e550f8);
-    color: #ffffff;
-}
-
 .primary-bg {
     background: #352eb8;
 }
@@ -603,6 +598,11 @@
 .btn {
     text-transform: uppercase;
     font-weight: 600;
+}
+
+.btn-warning {
+    background: linear-gradient(45deg, #f47d00, #f9a400);
+    color: #ffffff;
 }
 
 @media screen and (max-width: 991px) {
